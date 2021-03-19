@@ -1,9 +1,9 @@
-baseURL = "https://laughing-villani-67633b.netlify.app/"
+baseURL = "https://test-ventoux-coop.netlify.app/"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "Bigspring Hugo"
+title = "Ventoux Coop"
 [markup.goldmark.renderer]
 unsafe = true
